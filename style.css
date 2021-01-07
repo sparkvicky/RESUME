@@ -1,0 +1,53 @@
+body{
+  background-color:#BCE6EB;
+  margin:0;
+}
+.Top{
+  padding:150px;
+  height:190px;
+  background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRmf9v24yqhl98-dL23L33jLIYxSKa5CxiiEg&usqp=CAU")
+}
+.abc{
+  text-decoration: underline;
+}
+.skill{
+  color:#14097A;
+}
+.top{
+  height:200px;
+  margin-left:330px;
+}
+p{
+  font-size:30px;
+  text-align:center;
+  line-height:20px;
+}
+h3{
+  margin-left:20px;
+  color:blue;
+}
+.education{
+  font-size:20px;
+  line-height: 40px;
+  text-align:left;
+}
+h2{
+  margin-left:20px;
+  color:blue
+}
+.edu{
+  text-align:justify;
+  font-size:20px;
+  line-height:40px;
+  margin-left:10px;
+}
+.ed{
+  text-align: left;
+}
+p{
+font-family: 'Sacramento', cursive;
+font-size: 40px;
+}
+h2{
+  font-family: 'Kaushan Script', cursive;
+}
